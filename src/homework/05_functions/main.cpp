@@ -26,7 +26,7 @@ int main()
 		std::cout << "GC Complement " <<get_dna_complement(dna) << std::endl;
 		break;
 		default:
-		std::cout << "Incalid choice, please enter 1 or 2" << std::endl;
+		std::cout << "Invalid choice, please enter 1 or 2" << std::endl;
 		break;
 	}
 
